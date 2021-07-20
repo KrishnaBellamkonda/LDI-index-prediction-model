@@ -31,7 +31,7 @@ Build a time series regression model to predict the LDI index of every country i
 ### Pictures
 <li>
 Regression Coefficients
-<img src="./images/"RegressionCoefficients.png><img/>
+<img src="./images/RegressionCoefficients.png"><img/>
 <li/>
 ### Sources
 
