@@ -21,7 +21,7 @@ Build a time series regression model to predict the LDI index of every country i
 * 1) Python 
 * 2) Jupyter Notebook
 
-### **Modules**
+### **Packages**
 - sklearn
 - seaborn
 - matplotlib
