@@ -5,7 +5,7 @@
 
 
 ### Table of Contents
-* []()
+* [Description](#description)
 
 
 ### Aim
@@ -27,6 +27,11 @@ Build a time series regression model to predict the LDI index of every country i
 * If the import module is not install - it can be installed using `pip install [module_name]`
 
 ### Setup 
+- You can clone the repository and run the jupyter notebook to achieve the same results
+
+### Additional ideas 
+- You can use data from other years to build a different model and it can be used to predict the current LDI index. 
+- 
 
 ### Pictures
 <li>
