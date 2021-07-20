@@ -6,6 +6,24 @@ A simple yet suitable Linear Regression model is built to predict the Liberal De
 
 
 
+### Aim
+
+
+### 
+
+
 ### Requirements 
 * 1) Python 
-* 2) 
+<ul>
+  <li>sklearn<li/>
+  <li>matplotlib<li/>
+  <li>seaborn<li/>
+  <li>pandas<li/>
+  <li>numpy<li/>
+<ul/>
+  
+* **All of these are covered in Anaconda**
+* If the import module is not install - it can be installed using `pip install [module_name]`
+
+
+
