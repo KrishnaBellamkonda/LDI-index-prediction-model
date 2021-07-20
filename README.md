@@ -15,7 +15,7 @@ A simple yet suitable Linear Regression model is built to predict the Liberal De
 ### Requirements 
 * 1) Python 
 
-* **Modules**
+### **Modules**
 - sklearn
 - seaborn
 - matplotlib
