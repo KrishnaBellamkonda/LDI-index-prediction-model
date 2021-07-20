@@ -6,7 +6,12 @@
 
 ### Table of Contents
 * [Description](#description)
-
+* [Aim](#aim)
+* [Requirements](#requirements)
+* [Setup](#setup)
+* [Additional Ideas](#additional-ideas)
+* [Pictures](#pictures)
+* [Sources](#sources)
 
 ### Aim
 Build a time series regression model to predict the LDI index of every country in the years 2020 and 2021.
@@ -31,14 +36,17 @@ Build a time series regression model to predict the LDI index of every country i
 
 ### Additional ideas 
 - You can use data from other years to build a different model and it can be used to predict the current LDI index. 
-- 
+
 
 ### Pictures
 <li>
 Regression Coefficients
 <img src="./images/RegressionCoefficients.png"><img/>
 <li/>
+
 ### Sources
+1) OECD Dataset from OECD.stat (https://stats.oecd.org/)
+2) VDEM Dataset from VDem (https://www.v-dem.net/en/data/data/)
 
 
 
